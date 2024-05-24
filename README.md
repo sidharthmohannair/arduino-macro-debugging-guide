@@ -2,7 +2,7 @@
 
 Welcome to the Arduino Macro Debugging Tutorial! This repository contains a detailed guide on how to use macros for debugging in Arduino, complete with examples to help you get started.
 
-![Arduino Macro Debugging](path/to/your/image.jpg)
+![Arduino Macro Debugging](images/arduino_debugging.webp)
 
 ## Table of Contents
 
